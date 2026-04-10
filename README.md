@@ -33,7 +33,7 @@ Math Mater Life is a simple terminal-based game built with Python where you play
 1. Run the Python file:
 
    ```bash
-   python yololife.py
+   python mmlife.py
    ```
 
 2. Choose an action:
